@@ -22,9 +22,9 @@
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Lượt gán hoàn tất / được giao:
-- IAA trước calibration (kèm mẫu số):
-- Số ảnh phải calibration: … / 40
-- Vòng QC và số ảnh đã duyệt / cả lô:
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- Lượt gán hoàn tất / được giao: 80/80 (038: 40/40, 039: 40/40)
+- IAA trước calibration (kèm mẫu số): IoU TB 0.966, đồng thuận lớp 93.3% trên mẫu số 285 cặp box ghép
+- Số ảnh phải calibration: 27 / 40
+- Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1, đã duyệt 40 / 40 ảnh
+- Tỉ lệ lỗi: 0.0% theo ảnh (0/40), 0.0% theo đối tượng (0/350)
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: Release — Bộ nhãn đạt chuẩn chất lượng sau calibration, tỉ lệ lỗi 0.0% trên toàn bộ 40 ảnh.
