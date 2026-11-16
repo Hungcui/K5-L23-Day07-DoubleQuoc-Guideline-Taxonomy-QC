@@ -1,0 +1,117 @@
+case_id,image,issue_type,annotators,class_a,class_b,box_a,box_b,iou,ghi_chu_tu_dong
+C001,img_004.jpg,sai_lop,038|039,motorcycle,other_vehicle,"[69,69,412,525]","[69,69,412,525]",1.00,"038 gán motorcycle, 039 gán other_vehicle cho cùng một vật"
+C002,img_004.jpg,sai_lop,038|039,other_vehicle,truck,"[69,68,405,526]","[68,68,405,526]",0.99,"038 gán other_vehicle, 039 gán truck cho cùng một vật"
+C003,img_005.jpg,bo_sot_thua,038|039,van,,"[81,30,876,326]",,,Chỉ 038 vẽ van này. 039 bỏ sót hoặc 038 vẽ thừa.
+C004,img_005.jpg,bo_sot_thua,038|039,person,,"[443,92,73,70]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C005,img_005.jpg,bo_sot_thua,038|039,,person,,"[512,30,136,163]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C006,img_005.jpg,iou_thap,038|039,person,person,"[322,118,166,157]","[363,139,124,140]",0.63,IoU 0.63 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C007,img_005.jpg,sai_lop,038|039,motorcycle,person,"[539,146,421,488]","[542,146,415,494]",0.98,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C008,img_006.jpg,bo_sot_thua,038|039,motorcycle,,"[433,141,97,173]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C009,img_006.jpg,bo_sot_thua,038|039,bicycle,,"[760,312,127,225]",,,Chỉ 038 vẽ bicycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C010,img_006.jpg,bo_sot_thua,038|039,,car,,"[9,124,57,20]",,Chỉ 039 vẽ car này. 038 bỏ sót hoặc 039 vẽ thừa.
+C011,img_006.jpg,bo_sot_thua,038|039,,person,,"[433,141,63,81]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C012,img_006.jpg,bo_sot_thua,038|039,,person,,"[583,144,47,77]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C013,img_006.jpg,iou_thap,038|039,bicycle,person,"[581,144,55,173]","[579,143,51,169]",0.84,IoU 0.84 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C014,img_006.jpg,sai_lop,038|039,person,bicycle,"[730,73,182,454]","[740,74,170,463]",0.91,"038 gán person, 039 gán bicycle cho cùng một vật"
+C015,img_006.jpg,sai_lop,038|039,bicycle,person,"[581,144,55,173]","[579,143,51,169]",0.84,"038 gán bicycle, 039 gán person cho cùng một vật"
+C016,img_008.jpg,bo_sot_thua,038|039,person,,"[931,208,19,86]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C017,img_008.jpg,bo_sot_thua,038|039,car,,"[628,161,123,118]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C018,img_008.jpg,bo_sot_thua,038|039,person,,"[192,201,38,39]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C019,img_008.jpg,bo_sot_thua,038|039,truck,,"[592,178,51,64]",,,Chỉ 038 vẽ truck này. 039 bỏ sót hoặc 038 vẽ thừa.
+C020,img_008.jpg,bo_sot_thua,038|039,,person,,"[0,152,35,126]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C021,img_008.jpg,iou_thap,038|039,person,person,"[455,199,40,64]","[457,201,40,46]",0.66,IoU 0.66 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C022,img_008.jpg,sai_lop,038|039,motorcycle,person,"[674,201,51,105]","[674,201,51,105]",1.00,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C023,img_009.jpg,bo_sot_thua,038|039,motorcycle,,"[773,431,25,40]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C024,img_009.jpg,bo_sot_thua,038|039,bicycle,,"[798,432,20,35]",,,Chỉ 038 vẽ bicycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C025,img_009.jpg,bo_sot_thua,038|039,motorcycle,,"[154,422,39,62]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C026,img_009.jpg,bo_sot_thua,038|039,motorcycle,,"[693,436,22,33]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C027,img_009.jpg,iou_thap,038|039,motorcycle,motorcycle,"[913,439,47,59]","[913,439,47,94]",0.63,IoU 0.63 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C028,img_010.jpg,bo_sot_thua,038|039,bicycle,,"[373,213,248,306]",,,Chỉ 038 vẽ bicycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C029,img_010.jpg,bo_sot_thua,038|039,,motorcycle,,"[636,340,249,283]",,Chỉ 039 vẽ motorcycle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C030,img_010.jpg,bo_sot_thua,038|039,,person,,"[239,87,134,394]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C031,img_010.jpg,bo_sot_thua,038|039,,motorcycle,,"[139,301,176,236]",,Chỉ 039 vẽ motorcycle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C032,img_010.jpg,iou_thap,038|039,motorcycle,person,"[119,84,196,453]","[118,120,212,371]",0.77,IoU 0.77 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C033,img_010.jpg,iou_thap,038|039,motorcycle,person,"[600,127,285,496]","[563,128,232,460]",0.57,IoU 0.57 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C034,img_010.jpg,sai_lop,038|039,motorcycle,person,"[119,84,196,453]","[118,120,212,371]",0.77,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C035,img_010.jpg,sai_lop,038|039,motorcycle,person,"[600,127,285,496]","[563,128,232,460]",0.57,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C036,img_011.jpg,bat_dong_ignore,038|039,,,"[343,334,207,24]",,,Vùng ignore không ghép được với vùng của người kia.
+C037,img_011.jpg,bat_dong_ignore,038|039,,,,"[476,333,51,26]",,Vùng ignore không ghép được với vùng của người kia.
+C038,img_011.jpg,bat_dong_ignore,038|039,,person,,"[408,335,10,34]",,Chỉ vùng ignore của 038 phủ box của 039.
+C039,img_011.jpg,bat_dong_ignore,038|039,,person,,"[393,336,13,32]",,Chỉ vùng ignore của 038 phủ box của 039.
+C040,img_011.jpg,bat_dong_ignore,038|039,,person,,"[384,338,8,35]",,Chỉ vùng ignore của 038 phủ box của 039.
+C041,img_011.jpg,bo_sot_thua,038|039,person,,"[210,340,19,58]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C042,img_011.jpg,iou_thap,038|039,person,person,"[266,339,19,53]","[268,339,14,54]",0.75,IoU 0.75 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C043,img_011.jpg,iou_thap,038|039,person,person,"[197,336,20,68]","[197,336,28,65]",0.69,IoU 0.69 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C044,img_011.jpg,iou_thap,038|039,person,person,"[337,339,12,44]","[338,339,9,46]",0.68,IoU 0.68 < ngưỡng 0.7 (box lệch/lỏng/thiếu phần vật)
+C045,img_011.jpg,sai_lop,038|039,car,van,"[517,331,93,76]","[517,331,93,76]",1.00,"038 gán car, 039 gán van cho cùng một vật"
+C046,img_013.jpg,bat_dong_ignore,038|039,,,"[207,412,121,33]",,,Vùng ignore không ghép được với vùng của người kia.
+C047,img_013.jpg,bat_dong_ignore,038|039,,,,"[213,410,61,33]",,Vùng ignore không ghép được với vùng của người kia.
+C048,img_013.jpg,bat_dong_ignore,038|039,car,,"[262,419,61,22]",,,Chỉ vùng ignore của 038 phủ box của 038.
+C049,img_013.jpg,bo_sot_thua,038|039,motorcycle,,"[251,440,63,43]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C050,img_014.jpg,bo_sot_thua,038|039,motorcycle,,"[817,279,142,182]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C051,img_015.jpg,bo_sot_thua,038|039,car,,"[189,128,79,53]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C052,img_015.jpg,bo_sot_thua,038|039,car,,"[432,117,170,89]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C053,img_015.jpg,bo_sot_thua,038|039,car,,"[229,116,169,92]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C054,img_015.jpg,bo_sot_thua,038|039,,car,,"[234,117,368,89]",,Chỉ 039 vẽ car này. 038 bỏ sót hoặc 039 vẽ thừa.
+C055,img_016.jpg,bo_sot_thua,038|039,car,,"[419,310,188,102]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C056,img_016.jpg,bo_sot_thua,038|039,other_vehicle,,"[0,308,182,353]",,,Chỉ 038 vẽ other_vehicle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C057,img_016.jpg,bo_sot_thua,038|039,,other_vehicle,,"[654,312,305,365]",,Chỉ 039 vẽ other_vehicle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C058,img_016.jpg,sai_lop,038|039,car,van,"[527,272,431,225]","[527,272,431,225]",1.00,"038 gán car, 039 gán van cho cùng một vật"
+C059,img_016.jpg,sai_lop,038|039,other_vehicle,motorcycle,"[653,323,306,352]","[653,323,306,352]",1.00,"038 gán other_vehicle, 039 gán motorcycle cho cùng một vật"
+C060,img_016.jpg,sai_thuoc_tinh,038|039,car,van,"[527,272,431,225]","[527,272,431,225]",1.00,truncated: 038=yes vs 039=no
+C061,img_016.jpg,sai_thuoc_tinh,038|039,other_vehicle,motorcycle,"[653,323,306,352]","[653,323,306,352]",1.00,truncated: 038=no vs 039=yes
+C062,img_018.jpg,bo_sot_thua,038|039,,person,,"[211,208,108,110]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C063,img_018.jpg,sai_lop,038|039,truck,car,"[174,497,194,163]","[174,497,194,163]",1.00,"038 gán truck, 039 gán car cho cùng một vật"
+C064,img_019.jpg,bat_dong_ignore,038|039,,person,,"[72,72,61,103]",,Chỉ vùng ignore của 038 phủ box của 039.
+C065,img_019.jpg,bat_dong_ignore,038|039,,person,,"[130,65,33,82]",,Chỉ vùng ignore của 038 phủ box của 039.
+C066,img_019.jpg,bo_sot_thua,038|039,person,,"[818,436,142,202]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C067,img_019.jpg,iou_thap,038|039,person,person,"[516,239,77,68]","[535,237,52,71]",0.66,IoU 0.66 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C068,img_020.jpg,bo_sot_thua,038|039,car,,"[212,409,44,44]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C069,img_021.jpg,bat_dong_ignore,038|039,,,"[103,205,811,98]",,,Vùng ignore không ghép được với vùng của người kia.
+C070,img_021.jpg,bat_dong_ignore,038|039,car,,"[413,220,129,46]",,,Chỉ vùng ignore của 038 phủ box của 038.
+C071,img_021.jpg,iou_thap,038|039,motorcycle,motorcycle,"[536,309,196,330]","[536,301,160,340]",0.80,IoU 0.80 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C072,img_021.jpg,sai_lop,038|039,motorcycle,person,"[752,227,39,91]","[752,227,39,91]",1.00,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C073,img_021.jpg,sai_lop,038|039,motorcycle,person,"[695,256,66,175]","[695,256,66,155]",0.89,"038 gán motorcycle, 039 gán person cho cùng một vật"
+C074,img_022.jpg,sai_lop,038|039,other_vehicle,motorcycle,"[480,468,208,153]","[480,468,208,153]",1.00,"038 gán other_vehicle, 039 gán motorcycle cho cùng một vật"
+C075,img_023.jpg,bat_dong_ignore,038|039,,,"[396,175,101,51]",,,Vùng ignore không ghép được với vùng của người kia.
+C076,img_025.jpg,bat_dong_ignore,038|039,,,"[154,354,441,38]",,,Vùng ignore không ghép được với vùng của người kia.
+C077,img_025.jpg,bat_dong_ignore,038|039,,,,"[566,353,22,18]",,Vùng ignore không ghép được với vùng của người kia.
+C078,img_025.jpg,bat_dong_ignore,038|039,,person,,"[385,363,22,39]",,Chỉ vùng ignore của 038 phủ box của 039.
+C079,img_025.jpg,bat_dong_ignore,038|039,,person,,"[369,363,16,26]",,Chỉ vùng ignore của 038 phủ box của 039.
+C080,img_025.jpg,bat_dong_ignore,038|039,,person,,"[225,362,11,24]",,Chỉ vùng ignore của 038 phủ box của 039.
+C081,img_025.jpg,bat_dong_ignore,038|039,,person,,"[210,371,10,8]",,Chỉ vùng ignore của 038 phủ box của 039.
+C082,img_025.jpg,bat_dong_ignore,038|039,,person,,"[155,368,18,21]",,Chỉ vùng ignore của 038 phủ box của 039.
+C083,img_025.jpg,bo_sot_thua,038|039,car,,"[878,342,82,74]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C084,img_025.jpg,bo_sot_thua,038|039,person,,"[28,383,30,67]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C085,img_025.jpg,bo_sot_thua,038|039,,truck,,"[919,344,41,72]",,Chỉ 039 vẽ truck này. 038 bỏ sót hoặc 039 vẽ thừa.
+C086,img_025.jpg,bo_sot_thua,038|039,,car,,"[922,342,38,74]",,Chỉ 039 vẽ car này. 038 bỏ sót hoặc 039 vẽ thừa.
+C087,img_025.jpg,bo_sot_thua,038|039,,person,,"[28,383,62,45]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C088,img_025.jpg,bo_sot_thua,038|039,,person,,"[811,350,41,69]",,Chỉ 039 vẽ person này. 038 bỏ sót hoặc 039 vẽ thừa.
+C089,img_025.jpg,iou_thap,038|039,motorcycle,motorcycle,"[808,352,56,90]","[808,381,56,62]",0.69,IoU 0.69 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C090,img_029.jpg,iou_thap,038|039,bicycle,bicycle,"[108,186,40,101]","[114,179,29,108]",0.69,IoU 0.69 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C091,img_030.jpg,bat_dong_ignore,038|039,,,"[7,85,950,245]",,,Vùng ignore không ghép được với vùng của người kia.
+C092,img_030.jpg,bat_dong_ignore,038|039,,motorcycle,,"[97,151,155,177]",,Chỉ vùng ignore của 038 phủ box của 039.
+C093,img_030.jpg,bo_sot_thua,038|039,,motorcycle,,"[506,263,454,457]",,Chỉ 039 vẽ motorcycle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C094,img_031.jpg,bo_sot_thua,038|039,person,,"[161,373,19,52]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C095,img_031.jpg,bo_sot_thua,038|039,,motorcycle,,"[62,372,41,86]",,Chỉ 039 vẽ motorcycle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C096,img_031.jpg,iou_thap,038|039,motorcycle,motorcycle,"[233,375,32,61]","[235,375,26,55]",0.73,IoU 0.73 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C097,img_031.jpg,sai_lop,038|039,person,motorcycle,"[406,363,24,56]","[406,363,24,56]",0.93,"038 gán person, 039 gán motorcycle cho cùng một vật"
+C098,img_032.jpg,bat_dong_ignore,038|039,,,,"[915,277,45,58]",,Vùng ignore không ghép được với vùng của người kia.
+C099,img_032.jpg,bat_dong_ignore,038|039,car,,"[929,280,31,58]",,,Chỉ vùng ignore của 039 phủ box của 038.
+C100,img_032.jpg,bo_sot_thua,038|039,car,,"[882,282,24,35]",,,Chỉ 038 vẽ car này. 039 bỏ sót hoặc 038 vẽ thừa.
+C101,img_032.jpg,iou_thap,038|039,car,car,"[839,276,49,52]","[835,277,54,38]",0.68,IoU 0.68 < ngưỡng 0.7 (box lệch/lỏng/thiếu phần vật)
+C102,img_034.jpg,bo_sot_thua,038|039,motorcycle,,"[734,240,22,48]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C103,img_034.jpg,bo_sot_thua,038|039,bicycle,,"[574,227,65,76]",,,Chỉ 038 vẽ bicycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C104,img_034.jpg,bo_sot_thua,038|039,bicycle,,"[148,233,28,54]",,,Chỉ 038 vẽ bicycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C105,img_034.jpg,iou_thap,038|039,motorcycle,motorcycle,"[152,233,50,55]","[163,233,39,55]",0.79,IoU 0.79 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C106,img_034.jpg,iou_thap,038|039,car,car,"[452,228,137,84]","[361,228,228,84]",0.60,IoU 0.60 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C107,img_035.jpg,bo_sot_thua,038|039,person,,"[571,224,21,30]",,,Chỉ 038 vẽ person này. 039 bỏ sót hoặc 038 vẽ thừa.
+C108,img_035.jpg,bo_sot_thua,038|039,,other_vehicle,,"[374,209,170,194]",,Chỉ 039 vẽ other_vehicle này. 038 bỏ sót hoặc 039 vẽ thừa.
+C109,img_036.jpg,iou_thap,038|039,motorcycle,motorcycle,"[790,213,111,80]","[796,216,98,87]",0.76,IoU 0.76 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C110,img_039.jpg,bo_sot_thua,038|039,motorcycle,,"[932,462,28,72]",,,Chỉ 038 vẽ motorcycle này. 039 bỏ sót hoặc 038 vẽ thừa.
+C111,img_039.jpg,iou_thap,038|039,other_vehicle,other_vehicle,"[776,431,41,60]","[782,438,35,54]",0.74,IoU 0.74 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C112,img_040.jpg,bo_sot_thua,038|039,,truck,,"[41,91,151,136]",,Chỉ 039 vẽ truck này. 038 bỏ sót hoặc 039 vẽ thừa.
+C113,img_040.jpg,sai_lop,038|039,car,other_vehicle,"[306,126,227,280]","[306,126,227,280]",1.00,"038 gán car, 039 gán other_vehicle cho cùng một vật"
+C114,img_040.jpg,sai_lop,038|039,bus,other_vehicle,"[0,121,70,92]","[0,121,70,92]",1.00,"038 gán bus, 039 gán other_vehicle cho cùng một vật"
+C115,img_040.jpg,sai_lop,038|039,other_vehicle,car,"[304,68,573,348]","[304,68,573,348]",1.00,"038 gán other_vehicle, 039 gán car cho cùng một vật"
+C116,img_040.jpg,sai_thuoc_tinh,038|039,bus,other_vehicle,"[0,121,70,92]","[0,121,70,92]",1.00,truncated: 038=yes vs 039=no

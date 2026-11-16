@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Làm rõ cách xử lý các ca bất đồng trong đợt gán nhãn: (1) Nhất quán gộp người lái vào xe máy/xe đạp (R-02); (2) Phân biệt van vs car (R-10); (3) Xe kéo/ba gác tuk-tuk vào other_vehicle (R-05); (4) Tiêu chuẩn hóa box ignore_region cho các cụm phương tiện/người mờ ở hậu cảnh xa (R-09)."
+}

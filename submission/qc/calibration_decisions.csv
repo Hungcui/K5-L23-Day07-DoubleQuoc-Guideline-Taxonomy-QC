@@ -1,0 +1,117 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_004.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_004.jpg #C001,039: đạt,anh
+C002,img_004.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_004.jpg #C002,039: đạt,anh
+C003,img_005.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_005.jpg #C003,039: đạt,anh
+C004,img_005.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_005.jpg #C004,039: đạt,anh
+C005,img_005.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_005.jpg #C005,039: đạt,anh
+C006,img_005.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_005.jpg #C006,039: đạt,anh
+C007,img_005.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_005.jpg #C007,039: đạt,anh
+C008,img_006.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_006.jpg #C008,039: đạt,anh
+C009,img_006.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_006.jpg #C009,039: đạt,anh
+C010,img_006.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_006.jpg #C010,039: đạt,anh
+C011,img_006.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_006.jpg #C011,039: đạt,anh
+C012,img_006.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_006.jpg #C012,039: đạt,anh
+C013,img_006.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_006.jpg #C013,039: đạt,anh
+C014,img_006.jpg,Gộp người đạp xe vào box bicycle theo R-02,R-02,v1.1,038,img_006.jpg #C014,039: đạt,anh
+C015,img_006.jpg,Gộp người đạp xe vào box bicycle theo R-02,R-02,v1.1,038,img_006.jpg #C015,039: đạt,anh
+C016,img_008.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_008.jpg #C016,039: đạt,anh
+C017,img_008.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_008.jpg #C017,039: đạt,anh
+C018,img_008.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_008.jpg #C018,039: đạt,anh
+C019,img_008.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_008.jpg #C019,039: đạt,anh
+C020,img_008.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_008.jpg #C020,039: đạt,anh
+C021,img_008.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_008.jpg #C021,039: đạt,anh
+C022,img_008.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_008.jpg #C022,039: đạt,anh
+C023,img_009.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_009.jpg #C023,039: đạt,anh
+C024,img_009.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_009.jpg #C024,039: đạt,anh
+C025,img_009.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_009.jpg #C025,039: đạt,anh
+C026,img_009.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_009.jpg #C026,039: đạt,anh
+C027,img_009.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_009.jpg #C027,039: đạt,anh
+C028,img_010.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_010.jpg #C028,039: đạt,anh
+C029,img_010.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_010.jpg #C029,039: đạt,anh
+C030,img_010.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_010.jpg #C030,039: đạt,anh
+C031,img_010.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_010.jpg #C031,039: đạt,anh
+C032,img_010.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_010.jpg #C032,039: đạt,anh
+C033,img_010.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_010.jpg #C033,039: đạt,anh
+C034,img_010.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_010.jpg #C034,039: đạt,anh
+C035,img_010.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_010.jpg #C035,039: đạt,anh
+C036,img_011.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_011.jpg #C036,039: đạt,anh
+C037,img_011.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_011.jpg #C037,039: đạt,anh
+C038,img_011.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_011.jpg #C038,039: đạt,anh
+C039,img_011.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_011.jpg #C039,039: đạt,anh
+C040,img_011.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_011.jpg #C040,039: đạt,anh
+C041,img_011.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_011.jpg #C041,039: đạt,anh
+C042,img_011.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_011.jpg #C042,039: đạt,anh
+C043,img_011.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_011.jpg #C043,039: đạt,anh
+C044,img_011.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_011.jpg #C044,039: đạt,anh
+C045,img_011.jpg,Phân loại van/car theo hình dạng khoang hàng R-10,R-10,v1.1,038,img_011.jpg #C045,039: đạt,anh
+C046,img_013.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_013.jpg #C046,039: đạt,anh
+C047,img_013.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_013.jpg #C047,039: đạt,anh
+C048,img_013.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_013.jpg #C048,039: đạt,anh
+C049,img_013.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_013.jpg #C049,039: đạt,anh
+C050,img_014.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_014.jpg #C050,039: đạt,anh
+C051,img_015.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_015.jpg #C051,039: đạt,anh
+C052,img_015.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_015.jpg #C052,039: đạt,anh
+C053,img_015.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_015.jpg #C053,039: đạt,anh
+C054,img_015.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_015.jpg #C054,039: đạt,anh
+C055,img_016.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_016.jpg #C055,039: đạt,anh
+C056,img_016.jpg,Rà soát ngưỡng kích thước tối thiểu và bổ sung theo R-09,R-09,v1.1,038,img_016.jpg #C056,039: đạt,anh
+C057,img_016.jpg,Rà soát ngưỡng kích thước tối thiểu và bổ sung theo R-09,R-09,v1.1,038,img_016.jpg #C057,039: đạt,anh
+C058,img_016.jpg,Phân loại van/car theo hình dạng khoang hàng R-10,R-10,v1.1,038,img_016.jpg #C058,039: đạt,anh
+C059,img_016.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_016.jpg #C059,039: đạt,anh
+C060,img_016.jpg,Chuẩn hóa truncated theo mép khung hình R-11,R-11,v1.1,038,img_016.jpg #C060,039: đạt,anh
+C061,img_016.jpg,Chuẩn hóa truncated theo mép khung hình R-11,R-11,v1.1,038,img_016.jpg #C061,039: đạt,anh
+C062,img_018.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_018.jpg #C062,039: đạt,anh
+C063,img_018.jpg,Gán truck cho bán tải có thùng chở hàng theo R-01,R-01,v1.1,038,img_018.jpg #C063,039: đạt,anh
+C064,img_019.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_019.jpg #C064,039: đạt,anh
+C065,img_019.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_019.jpg #C065,039: đạt,anh
+C066,img_019.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_019.jpg #C066,039: đạt,anh
+C067,img_019.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_019.jpg #C067,039: đạt,anh
+C068,img_020.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_020.jpg #C068,039: đạt,anh
+C069,img_021.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_021.jpg #C069,039: đạt,anh
+C070,img_021.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_021.jpg #C070,039: đạt,anh
+C071,img_021.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_021.jpg #C071,039: đạt,anh
+C072,img_021.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_021.jpg #C072,039: đạt,anh
+C073,img_021.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_021.jpg #C073,039: đạt,anh
+C074,img_022.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_022.jpg #C074,039: đạt,anh
+C075,img_023.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_023.jpg #C075,039: đạt,anh
+C076,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C076,039: đạt,anh
+C077,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C077,039: đạt,anh
+C078,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C078,039: đạt,anh
+C079,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C079,039: đạt,anh
+C080,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C080,039: đạt,anh
+C081,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C081,039: đạt,anh
+C082,img_025.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_025.jpg #C082,039: đạt,anh
+C083,img_025.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_025.jpg #C083,039: đạt,anh
+C084,img_025.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_025.jpg #C084,039: đạt,anh
+C085,img_025.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_025.jpg #C085,039: đạt,anh
+C086,img_025.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_025.jpg #C086,039: đạt,anh
+C087,img_025.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_025.jpg #C087,039: đạt,anh
+C088,img_025.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_025.jpg #C088,039: đạt,anh
+C089,img_025.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_025.jpg #C089,039: đạt,anh
+C090,img_029.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_029.jpg #C090,039: đạt,anh
+C091,img_030.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_030.jpg #C091,039: đạt,anh
+C092,img_030.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_030.jpg #C092,039: đạt,anh
+C093,img_030.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_030.jpg #C093,039: đạt,anh
+C094,img_031.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_031.jpg #C094,039: đạt,anh
+C095,img_031.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_031.jpg #C095,039: đạt,anh
+C096,img_031.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_031.jpg #C096,039: đạt,anh
+C097,img_031.jpg,Gộp người trên xe vào box motorcycle theo R-02,R-02,v1.1,038,img_031.jpg #C097,039: đạt,anh
+C098,img_032.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_032.jpg #C098,039: đạt,anh
+C099,img_032.jpg,Chuẩn hóa biên ignore_region và ưu tiên box cá thể rõ R-12,R-12,v1.1,038,img_032.jpg #C099,039: đạt,anh
+C100,img_032.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_032.jpg #C100,039: đạt,anh
+C101,img_032.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_032.jpg #C101,039: đạt,anh
+C102,img_034.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_034.jpg #C102,039: đạt,anh
+C103,img_034.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_034.jpg #C103,039: đạt,anh
+C104,img_034.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_034.jpg #C104,039: đạt,anh
+C105,img_034.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_034.jpg #C105,039: đạt,anh
+C106,img_034.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_034.jpg #C106,039: đạt,anh
+C107,img_035.jpg,Xác nhận người đi bộ độc lập bổ sung box theo R-03,R-03,v1.1,038,img_035.jpg #C107,039: đạt,anh
+C108,img_035.jpg,Rà soát ngưỡng kích thước tối thiểu và bổ sung theo R-09,R-09,v1.1,038,img_035.jpg #C108,039: đạt,anh
+C109,img_036.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_036.jpg #C109,039: đạt,anh
+C110,img_039.jpg,Bổ sung box phương tiện 2 bánh có người theo R-02,R-02,v1.1,038,img_039.jpg #C110,039: đạt,anh
+C111,img_039.jpg,Điều chỉnh box ôm sát biên dạng phần nhìn thấy theo R-01,R-01,v1.1,038,img_039.jpg #C111,039: đạt,anh
+C112,img_040.jpg,Bổ sung box phương tiện nhìn thấy rõ theo R-01,R-01,v1.1,038,img_040.jpg #C112,039: đạt,anh
+C113,img_040.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_040.jpg #C113,039: đạt,anh
+C114,img_040.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_040.jpg #C114,039: đạt,anh
+C115,img_040.jpg,Xác định phương tiện đặc thù gán other_vehicle theo R-05,R-05,v1.1,038,img_040.jpg #C115,039: đạt,anh
+C116,img_040.jpg,Chuẩn hóa truncated theo mép khung hình R-11,R-11,v1.1,038,img_040.jpg #C116,039: đạt,anh

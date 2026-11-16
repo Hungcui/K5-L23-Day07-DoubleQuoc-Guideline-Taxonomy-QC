@@ -1,7 +1,8 @@
 [
   {
     "name": "car",
-    "color": "#e6194b",
+    "color": "#ff3b30",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -30,13 +31,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "truck",
-    "color": "#3cb44b",
+    "color": "#ff9500",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -65,13 +70,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "van",
-    "color": "#4363d8",
+    "color": "#ffcc00",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -100,13 +109,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "bus",
-    "color": "#f58231",
+    "color": "#34c759",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -135,13 +148,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "motorcycle",
-    "color": "#911eb4",
+    "color": "#00c7be",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -170,13 +187,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "bicycle",
-    "color": "#46c8c8",
+    "color": "#32ade6",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -205,13 +226,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "other_vehicle",
-    "color": "#f032e6",
+    "color": "#007aff",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -240,13 +265,17 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "person",
-    "color": "#9a6324",
+    "color": "#af52de",
+    "type": "rectangle",
     "attributes": [
       {
         "name": "occluded_level",
@@ -275,13 +304,50 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
   {
     "name": "ignore_region",
-    "color": "#808080",
-    "attributes": []
+    "color": "#8e8e93",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": [
+          "false",
+          "true"
+        ]
+      }
+    ]
   }
 ]
