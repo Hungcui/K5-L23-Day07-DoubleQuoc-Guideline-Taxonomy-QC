@@ -28,6 +28,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 | `person` | Người. |
 | `ignore_region` | Vùng không cần gán từng vật. |
 
+
 ### Thuộc tính
 
 | Thuộc tính | Giá trị | Ý nghĩa |
